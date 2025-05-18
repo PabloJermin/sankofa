@@ -1,4 +1,8 @@
 this is the local file
 
+<<<<<<< HEAD
 
 the third line from local is here
+=======
+this is from repo
+>>>>>>> 494419865d38ce4108592f34ee3bad502d575ad9
