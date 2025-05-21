@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 the second file for subzero
 the third line for stash
+=======
+additions to the second file
+the second line here
+>>>>>>> Stashed changes
